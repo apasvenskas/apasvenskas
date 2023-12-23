@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am software/web developer with an interest in interactive applications. My work is primaraly done with the following languages React, Javascript, CSS, and html.
-The projects I have completed here are mainly for learning purposes as I am always seeking to further my knolwedge of programing and more. 
+I am software/web developer with an interest in interactive applications. My work is primarily done with the following languages React, JavaScript, CSS, and html. The projects I have completed here are mainly for learning purposes as I am always seeking to further my knowledge of programing and more.
 
 <!--
 **apasvenskas/apasvenskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
