@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I am software/web developer with an interest in interactive applications. My work is primarily done with the following languages React, JavaScript, CSS, and html. The projects I have completed here are mainly for learning purposes as I am always seeking to further my knowledge of programing and more.
 
