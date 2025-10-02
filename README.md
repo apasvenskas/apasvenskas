@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am currently pursuing a Master's in Data Science, with a strong passion for interactive applications and the predictive power of Machine Learning. While I began my journey building projects with React, JavaScript, CSS, and HTML, my recent focus has shifted toward data-driven solutions. I've been working extensively with Python and libraries such as Pandas, NumPy, Scikit-learn, XGBoost, SHAP, and Matplotlib to develop machine learning models, primarily using financial data. I thrive on continuous learning and enjoy exploring the intersection of software engineering and intelligent algorithms.
+I am currently pursuing a Master's in Data Science, with a strong passion for interactive applications and the predictive power of Machine Learning. While I began my journey building projects with React, JavaScript, CSS, and HTML, my recent focus has shifted toward data driven solutions. I've been working extensively with Python and libraries such as Pandas, NumPy, Scikit-learn, XGBoost, SHAP, and Matplotlib to develop machine learning models, primarily using financial data. I thrive on continuous learning and enjoy exploring the intersection of software engineering and intelligent algorithms.
 
 🔭 I’m currently working on Machine Learning models for finiacial data. 
 
